@@ -1,3 +1,3 @@
-👉 [Own repos](https://github.com/d9k?tab=repositories) | 🐢 [Social network account](https://vk.com/d9kd9k)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d9k&langs_count=10&theme=dark&hide=Rich%20Text%20Format,CoffeeScript,HTML,Scheme,Ruby,Emacs%20Lisp)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+| Links    | Stats   |
+|-----|----|
+|    👉 <a href="https://github.com/d9k?tab=repositories">Own repos</a><br /><br /> 🐢 <a href="https://vk.com/d9kd9k">Social network account</a> <br /><br /><br /><br /><br /><br /><br /> |  <p><sub>Most languages used:<sub></p> <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d9k&langs_count=10&theme=dark&hide=Rich%20Text%20Format,CoffeeScript,HTML,Scheme,Ruby,Emacs%20Lisp&hide_title=true" alt="Top used languages"/></a> |
